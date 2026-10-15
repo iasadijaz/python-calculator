@@ -4,14 +4,14 @@ This is a basic calculator code written in python language
 # Functionalities:
 - It can perform the "+","-","/","*" operations
 - In case of operator other than that the program show a message saying Invalid operator
--In case of someone write the num1 & num2 in alphabets or like 90/ the program stop and show saying that                    Enter a valid number as this one is invalid.  It is because of using Try/except code.
--In case of "/" operation the program will first check that if num2==0 it will say the denominator can't be                  zero. 
--While loop is used in this program which allow the user to keep performing calculation as they are giving                  the input as Yes.
--It can accept the input as Yes,yes,YES,yEs because with condition the lower() method is used.
--It also accepts space before and after yes because strip() method is used.
+- In case of someone write the num1 & num2 in alphabets or like 90/ the program stop and show saying that                    Enter a valid number as this one is invalid.  It is because of using Try/except code.
+- In case of "/" operation the program will first check that if num2==0 it will say the denominator can't be                  zero. 
+- While loop is used in this program which allow the user to keep performing calculation as they are giving                  the input as Yes.
+- It can accept the input as Yes,yes,YES,yEs because with condition the lower() method is used.
+- It also accepts space before and after yes because strip() method is used.
  # How to run cal.py
- -First python 3 must be installed
+ - First python 3 must be installed
  - Then click on run in the top left side of visual studio code and click on start debugging
  - After that terminal will be open and is asking you for input
  - One time the program stop to again start it just type this # command in terminal py cal.py and it will again ask you for the input.
- - 
+
