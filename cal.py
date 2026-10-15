@@ -1,8 +1,8 @@
 condition="Yes"
 while condition.strip().lower()=="yes":
       try:
-            num1=int(input("Enter the first number"+" "))
-            num2=int(input("Enter the second number")+" ")
+            num1=float(input("Enter the first number"+" "))
+            num2=float(input("Enter the second number")+" ")
             operator=input("Enter the operation you want to perform"+" ")
             if operator=="+":
                   print(num1+num2)
