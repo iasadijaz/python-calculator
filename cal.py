@@ -10,6 +10,11 @@ while condition.strip().lower()=="yes":
                   print(num1-num2)
             elif operator=="*":
                   print(num1*num2)
+            elif operator=="**":
+                  if num1==0 and num2<0:
+                        print("Power can't be performed on such numbers.As it is undefined")
+                  else:
+                        print(num1**num2)
             elif operator=="/":
                   if num2==0:
                         print("Denominator can't be zero")
