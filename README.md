@@ -9,10 +9,10 @@ This is a basic calculator code written in python language
 - While loop is used in this program which allow the user to keep performing calculation as they are giving                  the input as Yes.
 - It can accept the input as Yes,yes,YES,yEs because with condition the lower() method is used.
 - It also accepts space before and after yes because strip() method is used.
-  # Requirements
-  - First python 3 must be installed
- # How to run cal.py
-  - Then click on run in the top left side of visual studio code and click on start debugging
- - After that terminal will be open and is asking you for input
- - One time the program stop to again start it just type this command in terminal 'py cal.py' and it will again ask you for the input.
+## Requirements
+- First python 3 must be installed
+## How to run cal.py
+- Then click on run in the top left side of visual studio code and click on start debugging
+- After that terminal will be open and is asking you for input
+- One time the program stop to again start it just type this command in terminal 'py cal.py' and it will again ask you for the input.
 
