@@ -2,7 +2,7 @@
 A simple calculator built in Python with a loop and input validation.
 This is a basic calculator code written in python language
 ## Functionalities:
-- It can perform the "+","-","/","*" operations.
+- It can perform the `"+","-","/","*"` operations.
 - The program also handled the decimal numbers now.
 - The whole numbers comes into this shape `5.0`, because the numbers are storing in float.
 - In case of operator other than that the program show a message saying Invalid operator.
