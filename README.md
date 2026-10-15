@@ -1,7 +1,7 @@
-# python-calculator
+# Python-Calculator
 A simple calculator built in Python with a loop and input validation.
 This is a basic calculator code written in python language
-# Functionalities:
+## Functionalities:
 - It can perform the "+","-","/","*" operations
 - In case of operator other than that the program show a message saying Invalid operator
 - In case of someone write the num1 & num2 in alphabets or like 90/ the program show Enter a valid number as this one is invalid, but the program does not stop it is also asking you Do you want to perform another calculation at the same time. It is because of using Try/except code.
