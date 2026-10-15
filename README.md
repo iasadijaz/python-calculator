@@ -4,7 +4,7 @@ This is a basic calculator code written in python language
 # Functionalities:
 - It can perform the "+","-","/","*" operations
 - In case of operator other than that the program show a message saying Invalid operator
-- In case of someone write the num1 & num2 in alphabets or like 90/ the program show Enter a valid number as this one is invalid, but the program does not stops it is also asking you Do you want to perform another calculation ate the same time. It is because of using Try/except code.
+- In case of someone write the num1 & num2 in alphabets or like 90/ the program show Enter a valid number as this one is invalid, but the program does not stop it is also asking you Do you want to perform another calculation at the same time. It is because of using Try/except code.
 - In case of "/" operation the program will first check that if num2==0 it will say the denominator can't be                  zero. 
 - While loop is used in this program which allow the user to keep performing calculation as they are giving                  the input as Yes.
 - It can accept the input as Yes,yes,YES,yEs because with condition the lower() method is used.
