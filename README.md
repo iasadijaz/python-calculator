@@ -11,6 +11,7 @@ This is a basic calculator code written in python language
 - While loop is used in this program which allow the user to keep performing calculation as they are giving                  the input as Yes.
 - It can accept the input as Yes,yes,YES,yEs because with condition the lower() method is used.
 - It also accepts space before and after yes because strip() method is used.
+- It support Power `**` operator. A message is also raised when 0 raised to negative power is given.
 ## Requirements
 - First python 3 must be installed
 ## How to run cal.py
