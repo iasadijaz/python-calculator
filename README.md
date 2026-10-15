@@ -12,7 +12,7 @@ This is a basic calculator code written in python language
 ## Requirements
 - First python 3 must be installed
 ## How to run cal.py
-- Then click on run in the top left side of visual studio code and click on start debugging
+- Open cal.py in visual stuido code and then click on run in the top left side of VS Code and click on start debugging
 - After that terminal will be open and is asking you for input
-- One time the program stop to again start it just type this command in terminal 'py cal.py' and it will again ask you for the input.
+- Once the program works and then stops, to again start it just type this command in terminal `py cal.py` and it will again ask you for the input.
 
