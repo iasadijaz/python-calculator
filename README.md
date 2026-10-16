@@ -2,7 +2,7 @@
 A simple calculator built in Python with a loop and input validation.
 This is a basic calculator code written in python language
 ## Functionalities:
-- It can perform the `"+","-","/","*"` operations.
+- It can perform the `"+","-","/","*","**","sqrt"` operations.
 - The program also handled the decimal numbers now.
 - The whole numbers comes into this shape `5.0`, because the numbers are storing in float.
 - In case of operator other than that the program show a message saying Invalid operator.
@@ -12,6 +12,7 @@ This is a basic calculator code written in python language
 - It can accept the input as Yes,yes,YES,yEs because with condition the lower() method is used.
 - It also accepts space before and after yes because strip() method is used.
 - It support Power `**` operator. A message is also raised when 0 raised to negative power is given.
+- Sqrt takes only one number. Raised a print message if square root of a negative number is asked as happened in real calculator.
 ## Requirements
 - First python 3 must be installed
 ## How to run cal.py
